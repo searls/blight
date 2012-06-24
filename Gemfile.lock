@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    blight (0.0.1)
+      ncurses-ruby
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ncurses-ruby (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  blight!

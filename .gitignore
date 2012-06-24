@@ -2,3 +2,4 @@
 .bundle
 config/*.yml
 .idea
+pkg
