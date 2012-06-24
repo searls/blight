@@ -16,6 +16,10 @@ RunsLoop.new.run do |window|
 end
 ```
 
+And here's what that looks like:
+
+![Hello, World example terminal](http://i.minus.com/iHdecPL7PnNyw.png)
+
 ## issues
 
 * Requires Ruby 1.9.x, but without good reason
